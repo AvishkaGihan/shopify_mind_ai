@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.vscode/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+.gradle/
+*.iws
+*.ipr
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.packages
+flutter_app/.pub-cache/
+flutter_app/.pub/
+flutter_app/coverage/
+flutter_app/.generated/
+flutter_app/ios/Flutter/Flutter.framework/
+flutter_app/ios/Flutter/Flutter.podspec
+flutter_app/ios/Flutter/ephemeral/
+flutter_app/ios/Flutter/Flutter.podspec
+flutter_app/windows/flutter/ephemeral/
+flutter_app/linux/flutter/ephemeral/
+flutter_app/macos/Flutter/ephemeral/
+flutter_app/web/plugins/
+flutter_app/pubspec.lock
+
+# Android
+flutter_app/android/.gradle/
+flutter_app/android/app/debug/
+flutter_app/android/app/profile/
+flutter_app/android/app/release/
+flutter_app/android/local.properties
+flutter_app/android/key.properties
+
+# iOS
+flutter_app/ios/Pods/
+flutter_app/ios/Podfile.lock
+flutter_app/ios/.symlinks/
+flutter_app/ios/Flutter/Flutter.framework/
+flutter_app/ios/Flutter/Flutter.podspec
+flutter_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# macOS
+flutter_app/macos/Pods/
+flutter_app/macos/Podfile.lock
+flutter_app/macos/.symlinks/
+flutter_app/macos/Flutter/Flutter.framework/
+flutter_app/macos/Flutter/Flutter.podspec
+
+# Windows
+flutter_app/windows/flutter/ephemeral/
+flutter_app/windows/flutter/generated_plugins.cmake
+
+# Linux
+flutter_app/linux/flutter/ephemeral/
+flutter_app/linux/flutter/generated_plugins.cmake
+
+# Web
+flutter_app/web/plugins/
+
+# Miscellaneous
+*.log
+*.swp
+*.swo
+.history
+.svn
+.vscode/launch.json
+.vscode/settings.json
+.vscode/extensions.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
